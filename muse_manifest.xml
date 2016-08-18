@@ -1,0 +1,69 @@
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="onecoin.com" resolutions="1x" timestamp="1452236878755">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-p_g_-maestra.css" crc="4057455935" ref="one-coin:sesiones-informativas:más:presenciales:one-dream-team:webinar:index"/>
+    <file name="one-coin.css" crc="201142865" ref="one-coin"/>
+    <file name="sesiones-informativas.css" crc="316095609" ref="sesiones-informativas"/>
+    <file name="m_s.css" crc="316095609" ref="más"/>
+    <file name="presenciales.css" crc="228040625" ref="presenciales"/>
+    <file name="one-dream-team.css" crc="3965732411" ref="one-dream-team"/>
+    <file name="webinar.css" crc="4294099458" ref="webinar"/>
+    <file name="index.css" crc="3883647405" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:sesiones-informativas:más:presenciales:webinar:one-coin:one-dream-team"/>
+    <file name="museutils.js" crc="275725342" ref="index:sesiones-informativas:más:presenciales:webinar:one-coin:one-dream-team"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:sesiones-informativas:más:presenciales:webinar:one-coin:one-dream-team"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:sesiones-informativas:más:presenciales:webinar:one-coin:one-dream-team"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="index"/>
+    <file name="webpro.js" crc="3883484123" ref="index:presenciales:one-dream-team"/>
+    <file name="form_check.php" crc="3932029206" ref="index:presenciales:one-dream-team"/>
+    <file name="form_throttle.php" crc="314685628" ref="index:presenciales:one-dream-team"/>
+    <file name="form_process.php" crc="401030677" ref="index:presenciales:one-dream-team"/>
+    <file name="form-u198.php" crc="448585933" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:sesiones-informativas:más:presenciales:webinar:one-coin:one-dream-team"/>
+    <file name="form-u372.php" crc="4160989877" ref="presenciales"/>
+    <file name="form-u420.php" crc="3965234697" ref="one-dream-team"/>
+  </folder>
+  <folder name="images">
+    <file name="u76-5.png" crc="4204267502" ref="index:sesiones-informativas:más:presenciales:webinar:one-coin:one-dream-team"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index"/>
+    <file name="u170-6.png" crc="299784466" ref="index"/>
+    <file name="u187-6.png" crc="4069400391" ref="index"/>
+    <file name="u182-4.png" crc="347700751" ref="index"/>
+    <file name="u184-4.png" crc="3834581729" ref="index"/>
+    <file name="u185-4.png" crc="4272046689" ref="index"/>
+    <file name="u192-6.png" crc="4035681557" ref="index"/>
+    <file name="u193-4.png" crc="134863965" ref="index"/>
+    <file name="u209-17.png" crc="197936648" ref="index"/>
+    <file name="u209-17-r.png" crc="4230623001" ref="index"/>
+    <file name="u209-17-m.png" crc="383023546" ref="index"/>
+    <file name="u209-17-fs.png" crc="4128672425" ref="index"/>
+    <file name="u534-5.png" crc="3837420543" ref="index:sesiones-informativas:más:presenciales:webinar:one-coin:one-dream-team"/>
+    <file name="1452252383_facebook.png" crc="53846867" seo="true" ref="index:sesiones-informativas:más:presenciales:webinar:one-coin:one-dream-team"/>
+    <file name="1452252568_twitter.png" crc="3885378637" seo="true" ref="index:sesiones-informativas:más:presenciales:webinar:one-coin:one-dream-team"/>
+    <file name="1452252602_youtube.png" crc="178486892" seo="true" ref="index:sesiones-informativas:más:presenciales:webinar:one-coin:one-dream-team"/>
+    <file name="1452252722_blogger.png" crc="3797209584" seo="true" ref="index:sesiones-informativas:más:presenciales:webinar:one-coin:one-dream-team"/>
+    <file name="1452252859_flat_world_cup_icon_512_mexico.png" crc="83359511" seo="true" ref="index:sesiones-informativas:más:presenciales:webinar:one-coin:one-dream-team"/>
+    <file name="u153-4.png" crc="4129944918" ref="index:sesiones-informativas:más:presenciales:webinar:one-coin:one-dream-team"/>
+    <file name="u370-4.png" crc="4216214990" ref="presenciales"/>
+    <file name="u373-17.png" crc="197936648" ref="presenciales"/>
+    <file name="u373-17-r.png" crc="4230623001" ref="presenciales"/>
+    <file name="u373-17-m.png" crc="383023546" ref="presenciales"/>
+    <file name="u373-17-fs.png" crc="4128672425" ref="presenciales"/>
+    <file name="ecf0ea_463b3a2991054140ab1947254d1727b2.jpg" crc="250380606" seo="true" ref="webinar"/>
+    <file name="u417-4.png" crc="3852014235" ref="one-coin"/>
+    <file name="u431-17.png" crc="253863259" ref="one-dream-team"/>
+    <file name="u431-17-r.png" crc="358472422" ref="one-dream-team"/>
+    <file name="u431-17-m.png" crc="137359817" ref="one-dream-team"/>
+    <file name="u431-17-fs.png" crc="121621210" ref="one-dream-team"/>
+  </folder>
+  <file name="index.html" crc="4153523025" seo="true" mt="1452236852236" redirect="true"/>
+  <file name="sesiones-informativas.html" crc="338090467" seo="true" mt="1452236852236" redirect="true"/>
+  <file name="más.html" crc="4095239429" seo="true" mt="1452236852236" redirect="true"/>
+  <file name="presenciales.html" crc="414374582" seo="true" mt="1452236852263" redirect="true"/>
+  <file name="webinar.html" crc="4147714925" seo="true" mt="1452236852236" redirect="true"/>
+  <file name="one-coin.html" crc="343382291" seo="true" mt="1452236852236" redirect="true"/>
+  <file name="one-dream-team.html" crc="477421965" seo="true" mt="1452236852236" redirect="true"/>
+</manifest>
